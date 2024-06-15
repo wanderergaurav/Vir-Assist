@@ -1,16 +1,30 @@
-# voice_assistant_app
+# Voice Assistant App
 
-A new Flutter project.
+## A new Flutter project.
 
-## Getting Started
+**Developed a voice assistant application using OpenAI API, capable of generating text, answering questions, creating images, and performing various tasks similar to Google Assistant and Siri.**
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Workflow
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. User Interaction
+User taps the floating action button to start/stop listening.
+Speech-to-Text API converts speech to text.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Processing Request
+The text input is sent to OpenAI API for generating responses or images.
+
+3. Generating Response
+The response from OpenAI API is either a text or an image URL.
+Text-to-Speech API converts the text response to speech.
+
+4. Delivering Response
+The generated text or image is displayed in the UI.
+The spoken response is played back to the user if it is text.
+
+**This setup ensures a seamless integration of voice interaction, OpenAI's powerful language and image generation capabilities, and a responsive, animated UI to provide a rich user experience.**
+
+
+
+
+
