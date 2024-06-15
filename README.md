@@ -4,6 +4,7 @@
 
 **Developed a voice assistant application using OpenAI API, capable of generating text, answering questions, creating images, and performing various tasks similar to Google Assistant and Siri.**
 
+![Screenshot 2024-06-16 002222](https://github.com/wanderergaurav/Vir-Assist/assets/121711498/e51f18a2-e51e-48c3-831c-309046098830)
 
 # Workflow
 
