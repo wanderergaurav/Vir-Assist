@@ -6,7 +6,7 @@
 
 ![Screenshot 2024-06-16 002222](https://github.com/wanderergaurav/Vir-Assist/assets/121711498/e51f18a2-e51e-48c3-831c-309046098830)
 
-# Workflow
+## Workflow
 
 1. User Interaction
 User taps the floating action button to start/stop listening.
